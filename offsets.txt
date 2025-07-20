@@ -1,5 +1,5 @@
 Uworld=0x1488D840
-Owning_World=0xB2
+Owning_World=0xB8
 Local_Pawn=0x350
 Mesh=0x328
 Root_Component=0x1b0
