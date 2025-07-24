@@ -1,4 +1,4 @@
-Uworld=0x1488D840
+Uworld=0x14E2C5F8
 Owning_World=0xB8
 Local_Pawn=0x350
 Mesh=0x328
